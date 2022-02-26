@@ -1,0 +1,855 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sure stay for a sinking state, presented in a sermon preached at Margarets Westminster before the Honourable House of Commons at their solemne fast, Nov. 24. 1647. / By Richard Kentish, preacher of the Gospel at Katharines, near the Tower London.</title>
+            <author>Kentish, Richard, Rev.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 78 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74782</idno>
+            <idno type="STC">Wing K320</idno>
+            <idno type="STC">Thomason E416_30</idno>
+            <idno type="STC">ESTC R204500</idno>
+            <idno type="EEBO-CITATION">99863990</idno>
+            <idno type="PROQUEST">99863990</idno>
+            <idno type="VID">116208</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74782)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116208)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E416[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sure stay for a sinking state, presented in a sermon preached at Margarets Westminster before the Honourable House of Commons at their solemne fast, Nov. 24. 1647. / By Richard Kentish, preacher of the Gospel at Katharines, near the Tower London.</title>
+                  <author>Kentish, Richard, Rev.</author>
+               </titleStmt>
+               <extent>[6], 35, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A.M. for Henry Overton, and are to sold [sic] at his Shop entring into Popes-head-Alley out of Lumber-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a preliminary order to print.</note>
+                  <note>Imperfect: bleed-through of text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Revelation II, 5 --  Sermons --  Early works to 1800.</term>
+               <term>Repentance --  Sermons --  Early works to 1800.</term>
+               <term>Fast-day sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:116208:1"/>
+            <opener>
+               <dateline>
+                  <date>Die Jovis, <hi>25</hi> Novemb. <hi>1647.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Commons aſ<g ref="char:EOLhyphen"/>ſembled in Parliament, that Major generall <hi>Brown,</hi> do from this Houſe give thanks to M<hi rend="sup">r</hi> 
+               <hi>Kentiſh</hi> for the great pains he took in the Sermon he preached yeſterday before the Houſe of Commons at <hi>Margarets Westminſter</hi> (it being a day of publike humiliation) and that he do deſire him to print his Sermon, wherein he is to have the like priviledge in prin<g ref="char:EOLhyphen"/>ting thereof, as others in the ſame kinde uſually have had.</p>
+            <closer>
+               <signed>H Elſinge Cler. Par. Do. Com.</signed>
+            </closer>
+         </div>
+         <div type="license">
+            <p>I appoint <hi>Henry Overton</hi> to print my Sermon.</p>
+            <closer>
+               <signed>Richard Kentiſh.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:116208:1" rendition="simple:additions"/>
+            <p>
+               <hi>A Sure Stay</hi> FOR A Sinking State, PRESENTED IN A SERMON Preached at <hi>Margarets Weſtminſter</hi> be<g ref="char:EOLhyphen"/>fore the Honourable Houſe of COMMONS at their ſolemne Faſt, <hi>Nov.</hi> 24. 1647.</p>
+            <p>By RICHARD KENTISH, Preacher of the Goſpel at <hi>Katharines,</hi> near the Tower <hi>London.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>HOSEA 141</hi>
+               </bibl>
+               <p>Oh Iſrael return unto the Lord thy God for thou haſt fallen by thine iniquity.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>1 CORYNTM. 11.31.</hi>
+               </bibl>
+               <p>If we would judge our ſelves, we ſhould not be Judged.</p>
+            </q>
+            <q>
+               <p>Poenitudo lapſis neceſſaria eſt, ſicut vulneratis ſunt neceſſaria medicamin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+               <bibl>
+                  <hi>Amb ad Virg. Lap cap</hi> 8.</bibl>
+            </q>
+            <q>
+               <p>Multum peccaſti, jam deſiſte, in contr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rium revert<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re</p>
+               <bibl>
+                  <hi>Chryſ. ad P%p. Antioch. Hom</hi> 80.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>A. M.</hi> for <hi>Henry Overton,</hi> and are to ſold at his Shop entring into Popes head-Alley out of Lumber-ſtreet. 1648.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:116208:2"/>
+            <pb facs="tcp:116208:2"/>
+            <head>
+               <hi>TO THE</hi> Honourable Houſe of <hi>COMMONS</hi> aſsembled in Parliament at Weſtminſter.</head>
+            <opener>
+               <salute>Renowned worthies,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He ſenſe of mine own weakneſſe forbid mee being ambitious,<note place="margin">Potentum peti<g ref="char:EOLhyphen"/>tiones ſunt quo<g ref="char:EOLhyphen"/>dammodè impe<g ref="char:EOLhyphen"/>ria Pet. Mar. in Reg.</note> either of preaching at <hi>Weſtminſter,</hi> or of appearing in <hi>print</hi> till a <hi>Parliamentary requeſt</hi> (which is equivalent to a command) calls firſt for the one, after<g ref="char:EOLhyphen"/>wards for the other; whereupon <hi>I conſulted not with fleſh and blood,</hi> but reſolved to yeeld to both; being willing, rather to be cenſured of the <hi>world</hi> for <hi>weaknes</hi> then of you for <hi>diſreſpect.</hi> The ſermon is but <hi>plain</hi> and <hi>ſhalow:</hi> what elſe can be expected from him, who ſa<g ref="char:EOLhyphen"/>vours neither of delicacy nor depth;<note place="margin">Sala. praeſ in lib. de guber.</note> Beſides my aim was <hi>Vtilia magis quam plauſibilia ſectari,</hi> rather to be <hi>profitable</hi> then <hi>plauſible;</hi> conceiving that on faſt<g ref="char:EOLhyphen"/>ing daies tis not ſo ſutable to inform the judgement or <hi>tickle the ears:</hi> as to move the affection, and <hi>touch the heart.</hi>
+            </p>
+            <p>The ſubject ſeems very pertinent to the preſent ſea<g ref="char:EOLhyphen"/>ſon. It is a declining age, we all are fallen. You <hi>(ho<g ref="char:EOLhyphen"/>noured worthies)</hi> are fallen ſo low, that few do ſo eſteem or ſtand in awe of you as they ought. Your <hi>cle<g ref="char:EOLhyphen"/>mency</hi>
+               <pb facs="tcp:116208:3"/>(which among men of ingenuous ſpirits makes you the more <hi>honourable</hi>) among thoſe that have been delinquents make you the more <hi>contemptible;</hi> They ſay your <hi>Ordinances,</hi> are charged only with powder and paper, they are but words or winde, they fear them not: I beſeech you if they regard not your <hi>rods,</hi> let them know you have <hi>ſcorpions.</hi>
+            </p>
+            <p>The people of this land are generally ſo fallen, that many queſtion whether they will over be able to riſe a<g ref="char:EOLhyphen"/>gain. There is aſtrange change in ſome proſeſſours, they that were wont to <hi>ſtrain at Gnats,</hi> can now <hi>ſwallow camels.</hi> And many long more now, after old <hi>ſuperſti<g ref="char:EOLhyphen"/>tion</hi> then they did formerly for <hi>reformation.</hi> This made me think I ſhould ſcarce diſcharge a good conſcience, if I did not cry out, <hi>Let's remember from whence we are fallen,</hi> and not rest there, but <hi>let's repent;</hi> which will not appear, unleſse we reform <hi>and do the firſt works.</hi> This is the ſubſtance of that which was lately <hi>proclaimed</hi> in <hi>your ears,</hi> and is now <hi>preſented</hi> to <hi>your eyes.</hi> And that it may be <hi>plan<g ref="char:EOLhyphen"/>ted</hi> in all our <hi>hearts,</hi> and practiſed in our lives, is, and ſhall be, the prayer of,</p>
+            <closer>
+               <signed>Your moſt willing, though moſt unworthy, ſervant in the Lord, <hi>RICHARD KENTISH.</hi>
+               </signed>
+               <dateline>
+                  <hi>From my obſcure ſtudy at</hi> Katherines neer <hi>the Tower</hi> London. <date>
+                     <hi>Decemb. 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 1647.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:116208:3"/>
+            <head>
+               <hi>A Sure Stay</hi> FOR A Sinking State.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>REVEL. 2.5.</hi>
+                  </bibl>
+                  <p>Remember therefore from whence thou art fallen, and repent, and do the firſt works; or elſe I will come unto thee quickly, and remove thy Candleſtick out of his place except thou repent.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>His Book is very myſterious; which made <hi>Jerom</hi> ſay, that it hath as ma<g ref="char:EOLhyphen"/>ny myſteries,<note place="margin">Hierom ad aulin Tot ba<g ref="char:EOLhyphen"/>bet Sacrament<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> quot verba. Aug. de Civ. Dei, lib. <hi>20.</hi> cap. <hi>17.</hi>
+               </note> as there be words in it, and <hi>Auguſtine</hi> ſaid That it would <hi>exercere mentes legentium;</hi> ſet their wits to work, that ſet themſelves to read it. But what is ſaid of Scrip<g ref="char:EOLhyphen"/>tures in generall, may alſo be ſaid of this Scripture in particular. Though there be many <hi>flouds,</hi> yet there
+<pb n="2" facs="tcp:116208:4"/>are ſome <hi>foords;</hi> though there be many <hi>depths</hi> where the great <hi>Elephant</hi> may ſwim,<note place="margin">Scriptura ſacra flavi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> eſt in quo ag<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> eleph<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> queat.</note> yet there be ſome <hi>ſha<g ref="char:EOLhyphen"/>lows</hi> wherein the little <hi>lamb</hi> may walk. In ſome places the Holy Spirit is ſoaring aloft above the reach of the higheſt; In other places, he is ſtooping low, even, to the capacity of the meaneſt: And thus doth he ſtoop in the Text.</p>
+            <p>Here are no <hi>flouds,</hi> but <hi>foords:</hi> no <hi>depths,</hi> but <hi>ſhalows:</hi> no <hi>difficulties</hi> to puzzle us; but <hi>plain things.</hi> to be pra<g ref="char:EOLhyphen"/>ctiſed by us. Oh that we could this day begin, to <hi>Remember from whence we are fallen, and repent.</hi> &amp;c.</p>
+            <p>This text is a part of the Epiſtle written to the <hi>Angel,</hi> or miniſter of <hi>the Church of Epheſus;</hi>
+               <note place="margin">Non ad ſolun E<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſcop<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſed a lipſam quo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Eccleſia<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> spe<g ref="char:EOLhyphen"/>ctat Epiſtola Pav. in loc.</note> and it concerns not the <hi>Angel only;</hi> but together with him the whole Church: and not the church of <hi>Epheſus</hi> only, but all other Chur<g ref="char:EOLhyphen"/>ches alſo, as appears, <hi>verſ.</hi> 7. of this chapt. <hi>He that hath an ear, l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t him hear what the ſpirit ſaith unto the Chur<g ref="char:EOLhyphen"/>ches;</hi> not to the <hi>Church</hi> in the ſingular number, but to the <hi>Churches</hi> in the plurall, including all other <hi>Churches:</hi> Neither do I think that it is ſo reſtrained to <hi>Churches,</hi> as excluding <hi>Common-wealths,</hi> unleſſe <hi>Common-wealths-members,</hi> be excluded from being <hi>Church members.</hi>
+            </p>
+            <p>The whole Epiſtle, beſides the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the <hi>prologue</hi> and the <hi>Epilogue,</hi> conſiſts of three principall parts.</p>
+            <p>Firſt;<note place="margin">
+                  <hi>1</hi> Laudat lau<g ref="char:EOLhyphen"/>danda</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> A Commendation of them for their <hi>labour and patience, and unwillingneſse to ſuffer evill,</hi> v. 2.3.</p>
+            <p>Secondly,<note place="margin">
+                  <hi>2</hi> Carpit car. penda,</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, A Reprehenſion, wherein they are blamed and for their declining, for <hi>leaving their firſt love.</hi> verſ. 4.</p>
+            <p>Thirdly,<note place="margin">
+                  <hi>3</hi> Vrget urgen<g ref="char:EOLhyphen"/>da.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, An Admonition or exhortation to things of great concernment, in the text, <hi>Remember from whence thou art fallen.</hi> &amp;c.</p>
+            <pb n="3" facs="tcp:116208:4"/>
+            <p>Which words are partly
+<list>
+                  <item>
+                     <hi>Monitory.</hi>
+                  </item>
+                  <item>
+                     <hi>Minatory.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. The <hi>Monitory</hi> part in theſe words, <hi>Remember from whence thou art fallen, and repent, and do the first works.</hi>
+            </p>
+            <p n="2">2. The <hi>Minatory</hi> part in theſe words, <hi>or elſe I will come unto thee quickly.</hi> &amp;c.</p>
+            <p>In the former of theſe, the <hi>Monitory</hi> part, there are three things they are preſſed to.</p>
+            <list>
+               <item>1. A ſight of ſin, <hi>Remember from whence thou art fallen.</hi>
+               </item>
+               <item>2. Repentance for ſin, <hi>and repent.</hi>
+               </item>
+               <item>3. Reformation of life, <hi>and do the first works.</hi>
+               </item>
+            </list>
+            <p>In the latter of theſe the <hi>minatory</hi> pa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, there are three arguments they are preſſed with, which are taken,
+<list>
+                  <item>1. From Chriſts coming, <hi>or elſe I will come unto thee,</hi> or <hi>againſt thee.</hi>
+                     <note place="margin">Adverſamte, Biza &amp; Piſ<g ref="char:EOLhyphen"/>cat.</note>
+                  </item>
+                  <item>2. From the time of his coming, <hi>quickly.</hi>
+                  </item>
+                  <item>3. From the end of his coming, <hi>and will remove thy Candleſtick out of his place, except thou repent.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Now before we come to handle theſe particulars, there is ſomething ariſing from the text in generall, not to be altogether paſſed by without obſerving.</p>
+            <p>Theſe people of <hi>Epheſus</hi> were much degenerated, they did once ſhew more love to God, to Chriſt, to Goſ<g ref="char:EOLhyphen"/>pel, then now they do; therfore Chriſt might now have come in judgement, without an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> more adoe, he might have put out their light, removed their Candleſtick, and never have ſpake of it till he had done it, and who could have ſaid, why haſt thou done ſo? but you ſee Chriſt takes not ſo ſevere a courſe, but comes firſt and gives them fair warning, where note,</p>
+            <p>
+               <hi>That Chriſt doth not uſe to ſurpriſe men at unawares, he
+<pb n="4" facs="tcp:116208:5"/>doth admoniſh, before he chaſtiſe; warn before he ſmite; ſummon farly, before he ſtorm furiouſly; diſcharge warning peeces, before he give fire to his murdering peeces.</hi>
+            </p>
+            <p>Thus the Lord dealt with the old world; <hi>an end of all fleſh was like to come, becauſe the earth was filled with vi<g ref="char:EOLhyphen"/>olence,</hi> but firſt <hi>Noah</hi> muſt be warned, <hi>Heb.</hi> 11.7. <hi>Noah being warned of God.</hi> Now God having warned him, he warns the world by building the ark, every ſound of the ſaw, every chop with the axe, every ſtroke with the hammer about the building, was as a watch-word to the people. Thus the Lord dealt wilt <hi>Nineveh:</hi> Be<g ref="char:EOLhyphen"/>fore deſtruction come, <hi>Jonah</hi> muſt goe and preach (though he have little minde to it) <hi>yet fourty daies, and Nineveh</hi> ſhall <hi>be deſtroyed. Jon.</hi> 3.4.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>
+               </label> Now the Reaſon (that we ſhall take notice of) why God uſeth to warn before he ſmite, is, that men might be reformed and not be ſmitten, for though the Lord <hi>loath</hi> ſin, yet is he <hi>loth</hi> to deſtroy the ſinner. <hi>Ezek.</hi> 33.11. <hi>As I live ſaith the Lord, I have no pleaſure in the death of the wicked,</hi> where we have not only Gods word for it, but if that will not ſerve, we have his oath too, which makes it manifeſt, that he had rather men ſhould <hi>rever<g ref="char:EOLhyphen"/>ter<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> return, then that he ſhould <hi>evertere overturn.</hi>
+            </p>
+            <p>For application of this point briefly.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>1</label> Firſt, Behold here the <hi>goodneſse</hi> and <hi>patience</hi> of God, <hi>Goodneſse,</hi> he is loath to ſtrike though we give him pro<g ref="char:EOLhyphen"/>vocations too many: <hi>Patience,</hi> that though he be reſol<g ref="char:EOLhyphen"/>ved, <hi>his ſpirit ſhall not alwaies ſtrive,</hi> yet he will give fair warning before he ſtrike:<note place="margin">Bu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inger in les.</note> Oh Let's conſider, <hi>Quàm ſuavis ſit Dominus, quàm placidè ſuos ad cognitionem pec<g ref="char:EOLhyphen"/>cati rev<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cet,</hi> how ſweet is the Lord? how gently doth he deal with poor ſinners, to bring them to the know<g ref="char:EOLhyphen"/>ledge of their ſin?</p>
+            <pb n="5" facs="tcp:116208:5"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>2</label> Let us take Gods warning that he may have no occa<g ref="char:EOLhyphen"/>ſion to ſtrike; we cannot but ſay we have been warned, and though God have been patient towards us hitherto, yet we may be conſumed at laſt: for <hi>if we make God wait too long, we ſhall finde him very angry.</hi>
+               <note place="margin">— Peri<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> laeſa fit ſur<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> If deſtruction ſhould come, where ſhould we look for comfort? God <hi>will be cleer when he judgeth; Pſal.</hi> 51.4. If we ſhall think to ſay, why are we thus?<note place="margin">— abſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> repre<g ref="char:EOLhyphen"/>henſione vel ac<g ref="char:EOLhyphen"/>cuſatione. Mol<g ref="char:EOLhyphen"/>le<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. in loc.</note> God will anſwer us as <hi>Reuben</hi> did his brethren, <hi>Gen.</hi> 12.22. <hi>Spake I not unto you ſaying, do not ſinne againſt the child: and ye would not hear?</hi> So may the Lord ſay, <hi>ſpake I not unto you?</hi> did not I tell you of this long ſince? but you would not hear me; you would not be warned by me; my meſſengers that I ſent to you, ſeemed to be but as thoſe that moc<g ref="char:EOLhyphen"/>ked; that will be but cold comfort, in a day of affliction, Oh therfore let us take Gods warning.</p>
+            <p>But to proceed to the particulars in the text,<note place="margin">1. For the Mo<g ref="char:EOLhyphen"/>nitory part.</note> And firſt of the firſt particular in the <hi>Monitory</hi> part, which is the ſight and remembrance of their ſin,<note place="margin">1. Particular.</note> 
+               <hi>Remember from whence thou art fallen.</hi>
+            </p>
+            <p>Theſe words are ſpoken to the <hi>Epheſians,</hi> who were a company of people profeſſing religion, a famous Church in the Apoſtle <hi>Pauls</hi> daie<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, but now they had <hi>left their firſt love,</hi> and therfore are adviſed, to <hi>Remem<g ref="char:EOLhyphen"/>ber from whence they are fallen.</hi>
+            </p>
+            <p>Two obſervations ariſe hence.</p>
+            <p>Firſt, That a people profeſſing religion may fall.</p>
+            <p>Secondly, That fallen profeſſours ſhould <hi>Remember from whence they are fallen.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>1</label> For the firſt, That a people profeſſing religion may fall, This the text intimates to us, elſe the admonition would be to little purpoſe.</p>
+            <pb n="6" facs="tcp:116208:6"/>
+            <p>In the proſecution of this point, I ſhall endeavour to ſay ſomething to theſe two queſtions.</p>
+            <list>
+               <item>1. How far may a people profeſſing religion fall.</item>
+               <item>2. What may be the ground or reaſon of their falling?</item>
+            </list>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>1</label> How far may profeſſours fall?</p>
+            <p>That the anſwer to this may be the clearer.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> We muſt diſtinguiſh
+<list>
+                  <item>1. <hi>of profeſsours.</hi>
+                  </item>
+                  <item>2. <hi>of falling.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. Profeſſours may be conſidered
+<list>
+                  <item>1. <hi>Sigillatim</hi> ſingly.</item>
+                  <item>2. <hi>Conjunctim</hi> conjoynedly.</item>
+               </list>
+            </p>
+            <p>Firſt <hi>Sigillatim,</hi> ſingly, for particular perſons profeſ<g ref="char:EOLhyphen"/>ſing religion, and theſe are of two ſorts.</p>
+            <p n="1">1. Such as have not only a <hi>form,</hi> but alſo the <hi>power of godlineſse,</hi> ſuch as have not only <hi>lamps,</hi> but alſo <hi>oil with their lamps,</hi> ſincere-hearted profeſſours, <hi>true Nathaneels in whom there is no guile,</hi> Such were the Saints of God of old, as <hi>David, Joſias, Peter,</hi> and <hi>Paul.</hi>
+            </p>
+            <p n="2">2. Such as have a <hi>form</hi> only, no <hi>power of godlineſſe,</hi> ſuch as have <hi>làmps</hi> only, but no <hi>oil, hypocrites,</hi> that are not what they ſeem to be, ſuch a <hi>Iudas, Hymenaeus,</hi> and <hi>Alexander</hi> ſpoken of. 1. <hi>Tim.</hi> 1.20</p>
+            <p>Secondly, Conſider Profeſſours <hi>Conjunctim,</hi> conjoy<g ref="char:EOLhyphen"/>nedly, many of them being joyned together, and theſe may be conſidered firſt, nationally; ſecondly, congre<g ref="char:EOLhyphen"/>gationally.</p>
+            <p>Firſt, Nationally, when a nation or the generality of a nation, are a people profeſſing religion, ſuch were the <hi>Iews of old,</hi> and <hi>England</hi> and <hi>Scotland now.</hi>
+            </p>
+            <p>Secondly, Congregationally, when a company of profeſſours, are congregated into a particular viſible Church, as the <hi>Corinthians, Galatians,</hi> and theſe <hi>E<g ref="char:EOLhyphen"/>pheſians</hi> in the text.</p>
+            <pb n="7" facs="tcp:116208:6"/>
+            <p>This is the firſt diſtinction.</p>
+            <p>Secondly, We muſt diſtinguiſh about falling.</p>
+            <p>Men may fall either
+<list>
+                  <item>1. <hi>partialitèr &amp; pro tempore.</hi>
+                  </item>
+                  <item>2. <hi>totalitèr &amp; finaliter.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Firſt, Men may fall <hi>partially,</hi> and <hi>for a ſeaſon,</hi> when there is not an <hi>amiſsion,</hi> or utter loſſe of grace, but only an <hi>Omiſsion,</hi> forbearance, or abatement of ſome of the acts or degrees of grace for a ſeaſon, as the <hi>trees</hi> yeeld not their leaves or fruit in the winter, but in the ſpring they put forth again. Thus when <hi>Peter</hi> denied his maſter,<note place="margin">Loquitur Chri<g ref="char:EOLhyphen"/>ſt<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> non de a<g ref="char:EOLhyphen"/>miſſioneſed de omiſſione, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> remiſſione pri<g ref="char:EOLhyphen"/>ſtini zeli &amp; fervor<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Geo. Groſſiu in loc.</note> he had not utterly loſt his faith and love, but there was ſome abatement of their degrees, and a forbearance to act as before. And this was the caſe of <hi>Epheſus</hi> here, as it is conceived: ſhe <hi>had not utterly loſt her love, only the heat of it was abated.</hi>
+            </p>
+            <p>Secondly, men may fall totally and finally, when there is an utter loſſe of all that good that once they ſee<g ref="char:EOLhyphen"/>med to have, not ſo much as any ſeed remaining in them, is in <hi>Hymeneus</hi> and <hi>Alexander who made ſhipwrack of faith,</hi> 1 Tim. 1.19.20. And this is the caſe of thoſe, that ſin againſt the Holy Spirit, and of theſe ſeven <hi>Aſian</hi> Churches, and of <hi>Rome</hi> at this day, where Chriſt had once a Church now hath <hi>Antichriſt</hi> his ſeat.</p>
+            <p>Now then for anſwer to the queſtion thus.</p>
+            <p n="1">1. Particular profeſſours, that are ſincere-hearted,<note place="margin">Nemo poteſt eſ<g ref="char:EOLhyphen"/>ſe tampru<g ref="char:EOLhyphen"/>dent, tam cir<g ref="char:EOLhyphen"/>cumſpectus, ut non altquando labatur. Lact. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> lib. <hi>6.</hi> cap. <hi>24.</hi>
+               </note> that have true ſaving grace in them, even ſuch as theſe may fall but not totally, not finally; but partially, and for aſeaſon: theſe may want the heat of their love, and the ſtrength of their faith, and exerciſe of their graces, but they ſhall not looſe the truth of them, 1 Joh. 3.9. <hi>their ſeed remaineth in them, Habitus non amittitur, actus in<g ref="char:EOLhyphen"/>termittitur,</hi>
+               <note place="margin">Dr. <hi>Slater in</hi> 1 Tueſ. 5.15.</note>
+               <pb n="8" facs="tcp:116208:7"/>
+               <hi>gradus remittitur,</hi> though for a ſeaſon they may want the uſe, or ſome of the meaſure, yet they ſhall never be without the habit of grace, as in ſleep we loſe not the faculty, but the uſe of ſenſe; or as a man in drink, or in a violent paſſion, loſeth not the faculty, but the uſe of reaſon: ſo a Chriſtian in temptation, may ſometimes loſe not his grace, but the exerciſe of it. Thus <hi>David</hi> in the matter of <hi>Vriah,</hi> loſt not the gift, but the exerciſe of his grace.<note place="margin">Charitat is in <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o facta eſt quae<g ref="char:EOLhyphen"/>dam quaſi ſepe<g ref="char:EOLhyphen"/>ratio non tamen abelitio. Bern.</note>
+            </p>
+            <p n="2">2. But for ſuch particular profeſſours, as have nothing but form, no power of godlineſſe; ſuch hypocrites as <hi>Judas,</hi> who notwithſtanding all his preaching, not<g ref="char:EOLhyphen"/>withſtanding his pretence of love to the poor, yet he loved coin, more then Chriſt, <hi>ſilver</hi> more then a <hi>Savi<g ref="char:EOLhyphen"/>our,</hi> the <hi>purſe</hi> more then the <hi>poor;</hi> Such as he, may fall, and that not <hi>partially,</hi> and <hi>for a ſeaſon</hi> only, but <hi>totally,</hi> and <hi>for ever.</hi>
+            </p>
+            <p n="3">3. And for conjoyned profeſſours, whether <hi>nationall</hi> or <hi>Congregationall,</hi> theſe may ſo fall as that they may ceaſe to be a <hi>nation</hi> or <hi>congregation,</hi> profeſſing godlineſſe, <hi>a particular viſible Church,</hi>
+               <note place="margin">Eccleſia parti<g ref="char:EOLhyphen"/>cularis prorſus deficere &amp; pe<g ref="char:EOLhyphen"/>rire poteſt Al<g ref="char:EOLhyphen"/>ſted Reg. The<g ref="char:EOLhyphen"/>ol. loc. <hi>16, § 4.</hi> para. <hi>4.</hi>
+               </note> 
+               <hi>may be unchurched</hi> (though thoſe particular members among them that are truly god<g ref="char:EOLhyphen"/>ly ſhall never periſh, <hi>Chriſts ſheep ſhall never be plucked out of his hand,</hi> Joh. 10.28.) Where is the Jewiſh nation? Where are all thoſe famous Churches, ſpoken of in the New Teſtament, as <hi>Corinth, Galatia, Theſſalonica,</hi> and theſe ſeven Churches of <hi>Aſia,</hi> are they not all fallen? though I queſtion not but many members that were among them are ſafe enough.</p>
+            <p>This is the anſwer to the firſt queſtion.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>1</label> What may be the ground or Reaſon of profeſſours falling?</p>
+            <pb n="9" facs="tcp:116208:7"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> Many reaſons may be rendred, but we ſhall touch but upon four.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>1</label> Firſt, Corrupt nature that remains in particular pro<g ref="char:EOLhyphen"/>feſſours, is very apt to trip up their heels, when they <hi>would do good, evillwill be preſent,</hi> Rom. 7.19. ſo that they cannot but do the evill they would not.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>2</label> Secondly, Strength of temptation foils many: temp<g ref="char:EOLhyphen"/>tations prove to ſtrong for them to grapple with: the <hi>ſtony ground,</hi> Luk. 8.13. <hi>for a time believes, but in time of temptation falls away.</hi> Notwithſtanding <hi>Peters</hi> confi<g ref="char:EOLhyphen"/>dence, when he is put to the triall he is not able to ſtand: So proud <hi>Pendleton</hi> in Q. <hi>Maries</hi> daies, could not endure the fiery tryall, notwithſtanding the great boaſt he made before of frying his fat for the Goſpel.<note place="margin">Fox. Marr. vol. <hi>3</hi> pag. <hi>140.</hi>
+               </note>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>3</label> Thirdly, Love of the world is another cauſe why ſo many fall off, they did <hi>run well,</hi> but the love of the world <hi>hath letted them:</hi> how many <hi>are choaked with cares and riches and pleaſures of this life,</hi> ſo that they <hi>bring forth no fruit to perfection?</hi> Luk. 8.14.</p>
+            <p>This was it that gave <hi>Demas</hi> ſuch a down fall. 2 Tim. 4. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0. <hi>Demas hath forſaken me, having loved this world,</hi> ſaith <hi>Paul.</hi> As a <hi>bird</hi> flying upwards with a ſtone or weight tyed to the <hi>leg,</hi> is forced to fall down again, thus 'tis with many profeſſors whoſe hearts are linked to the world: It is ſaid. 1. Tim. 6.9. <hi>they that will be rich fall into temptation and a ſnare, and in o many fooliſh and hurt<g ref="char:EOLhyphen"/>full luſts, which drown men in deſtruction and perdition:</hi> The love of the world, doth ſo inſnare and intangle men, that they can hardly diſcharge the truſt that is repoſed in them (Honoured Worthies think on this) tis too often ſound true,<note place="margin">Vix poſſibile eſt ut avarue ſu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uneri &amp; <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>rae ſatisfaciat.</note> that men that have been publikly and actively ſpirited, when once taken in the worlds lime<g ref="char:EOLhyphen"/>twigs,
+<pb n="10" facs="tcp:116208:8"/>have been able to act no more.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>4</label> Many fall totally and finally out of the juſt judgement of God, who ſeeing them under a profeſſion to approve of ſin, gives them up to their own hearts luſts and ſo they fall with a witneſſe. 2 Theſ. 2.10.11.12. <hi>becauſe they received not the love of the truth, that they might be ſaved for this cauſe God ſhall ſend them strong deluſions, that they ſhould believe a lye, that they all might be damned, who believed not the truth, but had pleaſure in unrighteouſneſſe.</hi>
+            </p>
+            <p>The only uſe that we ſhall make of this point ſhall be for admonition.<note place="margin">Uſe of Admo<g ref="char:EOLhyphen"/>nition.</note> Firſt, To the Land in generall. This is a nation that holds out a generall profeſſion, let not us be too confident and ſay, we have the <hi>temple of the Lord,</hi> the <hi>temple of the Lord:</hi> we have Ordinances and the Goſpel among us, therfore all ſhall be well with us, ala, we may fall low enough for all this; a Church may be unchurched (as was ſaid before) <hi>they that were exalted as high as Heaven, may fall as low as hell.</hi> Mat. 11.23.</p>
+            <p n="2">2. Let all particular Chriſtians look to it, we think we ſtand faſt, and are apt to ſay, <hi>tuſh, we ſhall never be removed, our hill ſtands ſtrong,</hi> Oh but what ſaith the Apoſtle. 1. Cor. 10.12. <hi>Let him that thinketh he ſtan<g ref="char:EOLhyphen"/>deth, take heed lest he fall.</hi> We ſtand in ſlippery places, and are ſlippery ſhod, tis eaſy to fall, though the fall prove hard: The Devill is ſtrong and ſubtill, the world is pleaſing and alluring, the fleſh is weak and yeelding, had we not need to take heed.</p>
+            <p>Eſpecially you <hi>(Honoured Worthies)</hi> who are ſet on high. The higheſt Houſes are ſubject to the ſturdieſt ſtorms. Your buſineſſes are many, and not a buſineſſe but there is a temptation in it. This is for my freind, if I
+<pb n="11" facs="tcp:116208:8"/>help not him, I loſe him; That's for my ſelf, either pro<g ref="char:EOLhyphen"/>fit or preferment, if I act not there, I miſſe it. This, will pleaſe the people; That, will engage forain ſtates, Oh what need have you to take heed that you fall not from your ſtedfaſtneſſe!</p>
+            <p>To keep up,<note place="margin">Staies to keep from falling.</note> give me leave to lay before you a few props or ſtays for your ſupport.</p>
+            <p>Firſt, Labour for humility, None ſtumble ſooner then they that eye the ſtars i'th skey: none walk ſurer then they that eye the ſtones i'th ſtreet. Prov. 16.18. <hi>pride goeth before deſtruction, and an haughty ſpirit before a fall.</hi> What threw the Angels down from heaven? what caſt <hi>Adam</hi> out of <hi>Paradiſe?</hi> what drove <hi>Nebuchad<g ref="char:EOLhyphen"/>nezzar</hi> from his Princely throne, and made him take up his habitation among the beaſts of the field, was it not pride? Oh then labour for humility.</p>
+            <p>Secondly, Get good ſtore of the fear of God in your hearts, he that walks fearfully, walks ſafely, and we know that none fall ſooner then they that run without regard. It is ſaid, Jer. 32, 40. <hi>I will put my fear in their hearts, that they ſhall not depart from me:</hi> The fear of God is the Saints ſupport. This will keep from falling, from being biaſſed by any thing: A man fearing God, will not fall from promoting the publike good for his own profit ſake, Neh. 6.15. <hi>The former Governours were chargeable to the people,</hi> laid taxes upon them, and put money into their own purſes, but <hi>ſo did not I, becauſe of the fear of God,</hi> the fear of God made him deny him<g ref="char:EOLhyphen"/>ſelf, for the publike good. Nor intereſt in ſtates or peo<g ref="char:EOLhyphen"/>ple, or ſelf, or any thing will make a man fearing God, fall from his principles.</p>
+            <p>Thirdly, Take heed of the leaſt trips, frequent trip<g ref="char:EOLhyphen"/>ping
+<pb n="12" facs="tcp:116208:9"/>uſually ends in down-right ſtumbling. Little ſins make way for greater: as little theeves open doors or windows to let bigger in: he that trips often upon ſinal oaths,<note place="margin">No<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſolu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> qu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r ſe, &amp; man <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſtè ma dum eſt e<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tan<g ref="char:EOLhyphen"/>dum, ſedah<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ni eo qued ſpe<g ref="char:EOLhyphen"/>ciem aliqua<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mali halet ab. ſtinendum. <hi>Z<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>h.</hi> in <hi>2 Theſ. 5.22.</hi>
+               </note> will in time grow a great ſwearer: therfore the Apoſtle gives us counſell to <hi>abſtain from all appearance of evil,</hi> a Theſ. 5.22. not only from every thing, that is <hi>evill in it ſelf, or apparently evill,</hi> but from every thing that hath in it but a ſhew or appearance <hi>of evill.</hi>
+            </p>
+            <p>Fourthly, Look to your footing, be ſure your foun<g ref="char:EOLhyphen"/>dation be good, build not upon the <hi>ſandy</hi> foundation of other mens judgements, they that ſtand upon ſuch tot<g ref="char:EOLhyphen"/>tering foundations, will be ſwayed and ſhaken, with every ſtorm, and will vote and un-vote, as the times turn, hold this opinion, and that opinion, which their company holds. But place your hope in God, Pſalm. 105.1. <hi>They that truſt in the Lord, ſhall be as mount Zion,</hi>
+               <note place="margin">b <hi>Vide</hi> Godw. Moſ. Aar <hi>lib</hi> 5. <hi>c.</hi> 4. <hi>&amp;</hi> Weenſ. Chriſt. Syn. <hi>lib.</hi> 1. <hi>c.</hi> 6. <hi>Sect.</hi> 8. <hi>para.</hi> 2. <hi>Diatr.</hi> 1.</note> 
+               <hi>that cannot be removed, but ſtandeth faſt for ever.</hi> Labour to be ſetled upon the rock <hi>Chriſt,</hi> and then the gates of hell, that is, neither the power nor po<g ref="char:EOLhyphen"/>licy of <hi>Sathan, ſhall be able to prevail againſt you.</hi>
+            </p>
+            <p>Fifthly, Pray to the Lord to uphold: they whom he keeps, are ſafely kept: when the Nurſe holds the childe by the arms or ſtrings, though it be weak and apt to fall, yet it is kept up:<note place="margin">Deut. 32.10.</note> ſo if God lead, we may walk ſafely. The <hi>Iſraelites</hi> were in the waſt howling <hi>wilderneſse,</hi> where were ſtumbling blocks enough; but God led them, and they were kept ſafely; Oh pray to the Lord, to uphold you with his right hand, according to his gracious pro<g ref="char:EOLhyphen"/>miſe, Iſa. 41.10. <hi>I will uphold thee with the right hand of my rightcouſneſse.</hi> Chriſt prayed for <hi>Peter,</hi> that his faith <hi>might not fail.</hi> Luk 22.32. ſo pray you for your ſelves, that your faith may not fail, that you may not fall.</p>
+            <pb n="13" facs="tcp:116208:9"/>
+            <p>Sixtly, If you have declined, though it have, been but a little, take notice of it, and bewail it; he that would ſtand <hi>futurely,</hi> let him repent of his ſalls <hi>formerly,</hi> and thus we are let to the next point.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>2</label> 
+               <hi>That fallen profeſſours ſhould</hi> Remember from whence they are fallen.</p>
+            <p>It is ſaid, Eze. 16.61. <hi>Thou ſhalt remember thy waies, and be aſhamed.</hi> The Lord had done great matters for the Jews, as he ſhews in the beginning of this chapter,<note place="margin">Admonet pro<g ref="char:EOLhyphen"/>pheta ut inci<g ref="char:EOLhyphen"/>piant agnoſcere quàm turpitèr obnegaverint fidem datam. <hi>Calv.</hi> in loc.</note> but they fell fouly to whoredome <hi>ver.</hi> 15. and the Lord tells theſe fallen people, that <hi>they ſhall Remember their waies.</hi>
+            </p>
+            <p>The Reaſons of this point which we ſhall mention are only theſe three.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>1</label> Firſt, Becauſe there is an expreſſe command for it in the text, <hi>Remember from whence thou art fallen:</hi> This is the injunction of the Lord Jeſus, and is not this enough? he that is Jeſus a Saviour, which ſhews his love, and he that is the Lord, which ſhews he hath power and au<g ref="char:EOLhyphen"/>thority enough: it is he that commands this, and is not this <hi>tye</hi> enough? when the Lord would have <hi>Joſhua</hi> cou<g ref="char:EOLhyphen"/>ragious, he uſeth this as an argument to perſwade him to it, Joſh. 1.9. <hi>have not I commanded thee? be ſtrong and of a good courage:</hi> So hath not God commanded them, that have fallen, to <hi>Remember from whence they are fallen?</hi> is not this a ſufficient reaſon?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>2</label> Secondly, Becauſe there is no riſing without Repen<g ref="char:EOLhyphen"/>ting, and there is no Repenting without Remembring. Can a man repent of he knows not what?<note place="margin">Non agnitum, non d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> corrigitur. <hi>Parcus.</hi> in text.</note> 
+               <hi>What the eye ſees not, the heart grieves not for:</hi> If a man conſider not of his backſliding, he'l ſcarce ever repent of it. Pſa. 119.19. <hi>I thought on my waies, and turned my feet unto thy teſti<g ref="char:EOLhyphen"/>monies,</hi>
+               <pb n="14" facs="tcp:116208:10"/>there is no turning till we bethink our ſelves what we have done, and therefore the Lord complains of the impenitency of the Jews,<note place="margin">Ad paenitenti am requir<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tur, ut peceator ſe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pſum ad ratio<g ref="char:EOLhyphen"/>nem vocet. Nunquam <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o mines poſſunt ad <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> adduci, neſi ubi ſibi ante oculo proponant mala ſua <hi>Calv</hi> in loc. Note. Nemo tangitur reſipiſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> quino<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> reputat quali<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> erat. <hi>Calv.</hi> thid.</note> under this notion of not <hi>cal<g ref="char:EOLhyphen"/>ling to minde what they had done.</hi> Jer. 8.6. <hi>I hearkened and heard, but they ſpake not aright, no man repented him of his wickedneſse, ſaying, what have I done?</hi> Conſider here, <hi>God hearkens and hears,</hi> but what <hi>hears</hi> he? truly little to the purpoſe, for ſaith the text, <hi>they ſpake not aright,</hi> they were not dumb, they ſpake, but as good never a whit, as never the better, <hi>they ſpake not aright:</hi> how doth that appear? thus, <hi>no man repented him of his wickedneſse</hi> (Note, we never ſpeak to purpoſe, except we have repented, confeſſion of ſin and prayer is to no purpoſe unleſſe we have repented) But how doth it appear that they repen<g ref="char:EOLhyphen"/>ted not? becauſe they never remembred their miſcarri<g ref="char:EOLhyphen"/>ages, ſaying, <hi>What have we done?</hi> ſo then they that are fallen, muſt <hi>Remember whence they are fallen,</hi> elſe they cannot repent,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>3</label> Thirdly, Si velum<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, ſe<g ref="char:EOLhyphen"/>puita eſſe co<g ref="char:EOLhyphen"/>ram deo peccata noſtra, veniant nobis in memo<g ref="char:EOLhyphen"/>riam. <hi>Calv,</hi> in <hi>Rzek, 16.61.</hi> Becauſe if men <hi>Remember</hi> not whence they are fallen, God will remember: If we <hi>Remember</hi> God forgets, but if we forget God remembers; If we remem<g ref="char:EOLhyphen"/>ber God forgets, 1 Joh. 1.9. <hi>If we confeſse our ſins</hi> (which we can never do unleſſe we remember them) <hi>he is faith<g ref="char:EOLhyphen"/>full and juſt to forgive us our ſins:</hi> when God forgives ſin he is ſaid to forget ſin, Heb. 8.12. <hi>I will be mercifull to their unrighteouſneſſe; and their ſins and iniquiti es will I remem<g ref="char:EOLhyphen"/>ber no more:</hi> by which it appears that when men remem<g ref="char:EOLhyphen"/>ber their backſlidings to purpoſe, God forgets them. But if men forget them God will remember them: and that will be a ſad remembrance: For when God remembers ſin, ſhe uſeth to puniſh the ſinner. Jer. 14.10. <hi>They have loved to wander, they have not re<g ref="char:EOLhyphen"/>frained
+<pb n="15" facs="tcp:116208:10"/>their fret, therfore the Lord doth not accept them, he will now remember their iniquity, and viſit their ſins:</hi> they have loved to run away from God, and would not remember ſo as to return, but God will <hi>Remember</hi> their tranſgreſſions <hi>and viſit their ſin,</hi> that is, will viſit them in anger for ſin, Pſal 89.32. <hi>I will viſit their tranſgreſsi<g ref="char:EOLhyphen"/>ons with a red, and their ſin with stripes:</hi> thus doth God viſit, when he remembers backſliding, he then viſits with a rod. Conſider then if there be not reaſon that they that are fallen, ſhould <hi>Remember from whence they are fallen.</hi>
+            </p>
+            <p>The firſt uſe of this point ſerves to inform us,<note place="margin">Uſe 1. Of in<g ref="char:EOLhyphen"/>formation.</note> That it is good for Miniſters to cauſe the people to <hi>Remember whence they are fallen,</hi> how far they are declined. It is ſaid 2 Pet. 1.12.13. <hi>I will not be negligent to put you in remembrance—and again, I think it meet as long as I am in this Tabernacle, to ſtir you up, by putting you in remembrance.</hi> This the Apoſtle <hi>Peter</hi> reſolves upon, ſo ſhould we, Iſa. 58.1.<note place="margin">Concionater ſit tuba, non tibia. <hi>Calap.</hi> in loc.</note> The command is <hi>Cry aloud and ſpare not,</hi> any though never ſo high in place: <hi>Lift up thy voice like a trumpet.</hi> Miniſters muſt not be <hi>tibiae</hi> but <hi>tubae,</hi> not <hi>pipes for plea<g ref="char:EOLhyphen"/>ſure,</hi> but <hi>trumpets for terrour. Shew my people their tranſ<g ref="char:EOLhyphen"/>greſsions, and the houſe of David their ſins;</hi> Yea and they are to minde them of this ſin in particular, 1 Tim. 4.6. <hi>If thou put the Brethren in remembrance of theſe things, thou ſhalt be a good miniſter of Jeſus Chriſt:</hi> Note here,<note place="margin">Note.</note> 'tis the Miniſters duty to be the peoples <hi>Remembrancer,</hi> elſe he is not a good Miniſter of <hi>Jeſus Chriſt.</hi> But what muſt he minde them of? <hi>Of theſe things,</hi> ſaith the text, What are they? among other things, <hi>ver.</hi> 1. that <hi>ſome ſhall depart from the faith:</hi> and not only that ſome ſhall fall, but they muſt endeavour to help them up again, Gal. 6.1.
+<pb n="16" facs="tcp:116208:11"/>
+               <hi>If a manbe fallen, yee which are ſpirituall,</hi> ſuch are or at leaſt ſhould all Miniſters be, <hi>restore ſuch a man:</hi> how can ſuch a man be reſtored if he be not put in remem<g ref="char:EOLhyphen"/>brance of his fall? And it is plain in the verſe before my text, by order from Chriſt <hi>John the Divine</hi> tells the <hi>Angel,</hi> that he may tell the <hi>Church of Epheſus,</hi> thou <hi>haſt left thy first love.</hi> Oh that Miniſters would do this part of their duty! Oh that people would be willing to be minded of their backſliding. It is my duty at this time (though I am one of the meaneſt of all the ſons of the Prophets to be a remembrancer to you (Noble Wor<g ref="char:EOLhyphen"/>thies <hi>and to the reſt beloved</hi>) I beſeech you therefore to give me leave to exhort you, to <hi>Remember from whence you are fallen:</hi> And ſo I paſſe to a ſecond uſe which is,</p>
+            <p>Of exhortation,<note place="margin">Uſe 2. Of ex<g ref="char:EOLhyphen"/>horcation.</note> And Oh that the Lord would afford me ſuch a Rhetoricall faculty, that I might be able to perſwade Magiſtrates, Miniſters and people, to <hi>Remem<g ref="char:EOLhyphen"/>ber from whence they are fallen.</hi>
+            </p>
+            <p>And firſt to begin with the Magiſtrates,<note place="margin">1. To the Par<g ref="char:EOLhyphen"/>liament.</note> Here (Noble Senatours) I muſt apply my ſelf to you who are the ſupream Magiſtrates of the Kingdome: And I do lo<g ref="char:EOLhyphen"/>lemnly profeſſe I intend not to lay a charge againſt any one, but only to propound ſome conſiderations to you all, which when you have weighed, I ſhall intreat you, if you ſee cauſe, to <hi>Remember from whence you are fallen.</hi>
+            </p>
+            <p n="1">1. Conſider whether <hi>Gods cauſe</hi> be promoted among you as it ought, or whether religion be not caſt behinde the door, while other matters of far leſſe moment are called in, and ſet at the upper end of the table.</p>
+            <p n="2">2. Again, Conſider whether <hi>Delinquents</hi> have not (at leaſt) ſo much connivance, as gives occaſion to your moſt cordiall friends (that have ſtuck to you, when you
+<pb n="17" facs="tcp:116208:11"/>were at the loweſt ebb) to grow Jealous?</p>
+            <p n="3">3. Again, Conſider whether <hi>delinquent. Frieſts,</hi> are not ready to thruſt ſome of your diligent Preachers out of the places (they have been lawfully called to long ſince) and yet they eſcape without Co<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tr<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>le.</p>
+            <p n="4">4. Again, Conſider whether ſome godly Miniſters or others, have not had dirt thrown in their faces, by ſome of your members in ſome of your Committees.</p>
+            <p n="5">5. Again, Conſider whether <hi>juſtice</hi> run with the <hi>Dro<g ref="char:EOLhyphen"/>medary:</hi> or whether it doth not rather creep with the <hi>Snail;</hi> ſo that the poor were as good loſe their right as look after it, or petition for it.</p>
+            <p n="6">6. Again, Conſider whether you be not grown ſo <hi>low<g ref="char:EOLhyphen"/>ſpirited,</hi> that you will <hi>vote</hi> and <hi>unvote</hi> for fear of this, or for favour of the other.</p>
+            <p n="7">7. Again, Conſider whether <hi>publike faith</hi> be not al<g ref="char:EOLhyphen"/>moſt ready to break, ſo that her poor creditours, that truſted her with all they had, would be glad to take an <hi>Angel</hi> or <hi>Noble per pound;</hi> In the mean while her rich Cre<g ref="char:EOLhyphen"/>ditours that truſted her but with a little of their ſuperflu<g ref="char:EOLhyphen"/>ities, are like to recover their own with advantage.</p>
+            <p n="8">8. Again, Conſider whether ſome of your members or faithfull friends, have not been committed or put un<g ref="char:EOLhyphen"/>der reſtraint, for an errour in judgement and ſo remain without calling to tryall.</p>
+            <p n="9">9. And laſtly, Conſider whether ſome of you be not more for your ſelves, then the Stare; and whether you do not as <hi>Caeſar</hi> once, who though he acknowledged <hi>Caſstus</hi> his cauſe to be more juſt,<note place="margin">Plut. in vit. Bruti.</note> yet ſaid <hi>Brutus</hi> muſt be firſt prefer'd.</p>
+            <p>Now as I ſaid before, ſo I ſay again, I go not to charge theſe things upon any, but deſire they may be conſidered
+<pb n="18" facs="tcp:116208:12"/>by you all, and when you have well weighed them, if you finde cauſe, then I moſt humbly and earneſtly be<g ref="char:EOLhyphen"/>ſeech you, to <hi>Remember from whence you are fallen.</hi>
+            </p>
+            <p>Secondly,<note place="margin">2 To Preachers</note> And now my reverend Brethren of the Miniſtry, Let me ſpeak a few words to you: I truſt a brotherly admonition or exhortation (though from one of the meaneſt and moſt unworthy of your tribe) ſhall not be rejected. Oh that you would <hi>Remember from whence you are fallen.</hi>
+            </p>
+            <p>I will draw up no charge againſt you, but would intreat you to conſider a few things.</p>
+            <p n="1">1. Whether ſome of you that were wont to preach Chriſt more ſweetly, do not now preach controverſies moſt bitterly?</p>
+            <p n="2">2. Again Conſider whether ſince you have enjoyed <hi>great livings,</hi> ſome of you be not more <hi>Lukewarm</hi> then you were when <hi>Lecturers?</hi>
+            </p>
+            <p n="3">3. Again Conſider whether ſome of you do not <hi>Pro<g ref="char:EOLhyphen"/>craſtes</hi> like,<note place="margin">Plut, in vit. Theſ.</note> labour to wrack ſome and cut others, that men might be all of your own ſtature?</p>
+            <p n="4">4. Again Conſider whether ſome of you do not look more after <hi>tithe,</hi> then after judgement, mercy, and faith?</p>
+            <p n="5">5. And laſtly, Conſider whether ſome of you be not more proud, more covetuous, more cold, more careleſſe then you were wont to be?</p>
+            <p>If any of you ſhould be found faulty in any of theſe particulars, or in any other, I would earneſtly beſeech you, My Reverend Brethren, to <hi>Remember from whence you are fallen?</hi>
+            </p>
+            <p>Thirdly,<note place="margin">3. To the People.</note> And now I am come to the people of the land, in Generall; Oh that the Lord would perſwade the people of <hi>England,</hi> to <hi>Remember from whence they are fallen.</hi>
+            </p>
+            <pb n="19" facs="tcp:116208:12"/>
+            <p n="1">1. The people of <hi>England,</hi> once loved the Saints, and honoured thoſe that feared the Lord, but now they loath them. They once longed for a Parliament, petitioned for a Parliament, honoured a Parliament: thought they could not be happy without a <hi>Parliament,</hi> But now how is the Parliament ſlighted! their <hi>orders</hi> and <hi>ordinances</hi> contemned:<note place="margin">Luk. 8.37.</note> and how many are there that ſay to the Parliament, as the <hi>Gadarens</hi> to Chriſt, <hi>Oh that it would depart out of our coaſts. Oh how is</hi> England <hi>fallen?</hi>
+            </p>
+            <p n="2">2. The people of <hi>England</hi> once deſired <hi>Reformation:</hi> Peti<g ref="char:EOLhyphen"/>tioned for <hi>Reformation;</hi> covenanted for Reformation, but now they do hate to be reformed: they are like <hi>Iſrael</hi> of old in their travail towards the promiſed land;<note place="margin">Numb. 11.5.</note> they <hi>prefer<g ref="char:EOLhyphen"/>red the Garlick and Onyons of Egypt: before the milk and hony of Canaan:</hi> ſo now a <hi>prelaticall Preist,</hi> with a <hi>ſuperſtitious ſer<g ref="char:EOLhyphen"/>vice-book,</hi> is more deſired and would be better welcome to the generality of <hi>England,</hi> then the moſt learned laborious conſcientious Preacher, whether <hi>Preſbyterian</hi> or <hi>Inde<g ref="char:EOLhyphen"/>pendent: Oh how is England fallen?</hi>
+            </p>
+            <p n="3">3. Again; About ſix years ſince: Sinne began to be aſhamed, to creep into corners, to be out of faſhion: but now ſinne, is grown brazen-fac'd, walks in the open ſtreets, is come into great requeſt again. Sabbaths are profaned, ordinances ſlighted, Swearing is accounted gainfull: Drunkenneſſe goes unpuniſhed, and whore<g ref="char:EOLhyphen"/>dome the people are apt to think lawfull now, becauſe ſince the Biſhops Courts went down, we have ſcarce any law againſt it.</p>
+            <p>Now here (by the way) I do moſt earneſtly beſeech you <hi>(Honoured Worthies of Parliament)</hi> If you have not been acting that way already, to haſten out ſome order for the puniſhment of that hainous ſin of adultery. We
+<pb n="20" facs="tcp:116208:13"/>read in Gods law, Lev. 20.10. <hi>that he that committeth adultery with his neighbours wife, the adulterer and the adul<g ref="char:EOLhyphen"/>tereſſe, ſhall ſurely be put to death.</hi> Was it to be puniſhed with death then, and ſhall it go unpuniſhed now? I beſeech, Let ſome courſe be taken that ſuch kinde of tranſgreſſours may be made to ſmart.</p>
+            <p n="4">4. Again, Oh <hi>how is England fallen:</hi> Time was when wee rejoyced that we had daies of faſting, we lookt upon them as none of our leaſt mercyes; but now we are rea<g ref="char:EOLhyphen"/>dy to ſay with thoſe <hi>Amos.</hi> 8.5. <hi>When will the new moon be gone that we may ſell corn? and the Sabbath that we may ſer forth wheat?</hi> ſo ſay our people, when ſhall we have an ned of theſe faſting daies? that we may follow our cal<g ref="char:EOLhyphen"/>lings, look to our ſhops; and our other occaſions. And theſe poor ſimple creatures are mad alter ſuperſtitious feſtivalls, after <hi>unholy holy-daies?</hi> Alas! why ſhould we be weary of well-doing? Are <hi>Englands</hi> dangers all over? Is not <hi>Irelands</hi> caſe as bad as it was? and ſhall we give over ſeeking of God? O that we would <hi>Remember from whence we are fallen.</hi>
+            </p>
+            <p n="5">5, Yet it were ſome what tolerable; if there were ſuch a declining only among the generality of <hi>England,</hi> if it were only among the <hi>Riffe-Raffs</hi> of the people, But alas! How are <hi>Englands</hi> profeſſours fallen from hot to cold,<note place="margin">Quantum mu<g ref="char:EOLhyphen"/>tati ab illis, <hi>Virg.</hi> Ipſi ſunt ſibi diſſimiles facti. Par.</note> from better to worſe! they are not like the people they were. Do they not neglect Sabbaths? ſlight ſermons? grow weary of Manna? Is not their love to Chriſt, to Chriſtians, grown cold? Do they not love the world better then they were wont? Are they not grown more fooliſh and faſhionable? more contentious and comple<g ref="char:EOLhyphen"/>mentall then formerly? You cannot know a profeſſour from a prodigall, a Chriſtian from a Carrouſer now a<g ref="char:EOLhyphen"/>daies;
+<pb n="21" facs="tcp:116208:13"/>Oh how are <hi>Englands</hi> profeſſours fallen! Oh that <hi>England,</hi> that the people of <hi>England,</hi> both highand low, rich and poor, one and other, from <hi>Dan</hi> to <hi>Beer<g ref="char:EOLhyphen"/>ſheba,</hi> would this day begin, to <hi>Remember from whence they are fallen, And Repent.</hi>
+            </p>
+            <p>We have done with the firſt particular,<note place="margin">
+                  <hi>2.</hi> Parti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>Remember from whence thou art fallen:</hi> And we come to the ſecond thing exhorted to, <hi>And Repent.</hi>
+            </p>
+            <p>The Doctrine is this,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label> 
+               <hi>That fallen Profeſsours muſt be Repenting Profeſſours.</hi>
+            </p>
+            <p>Here we muſt enquire after two things.</p>
+            <p>Firſt, What it is to Repent?</p>
+            <p>Secondly, Why muſt fallen Profeſſours Repent?</p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>1</label> 1. What it is to Repent?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſ. </seg>
+               </label> Here I ſhall not ſtand upon an exact diſtinction of Re<g ref="char:EOLhyphen"/>pentance. I muſt not handle it too largely, leaſt I be thought too ſong.<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Lact. lib. <hi>6.</hi> c. <hi>24.</hi>
+               </note> The Greek word ſignifyes <hi>Mentis mutationem in melius,</hi> a change of the minde from better to worſe: Repedtance hath its ſear within; to Repent then, is to have the heart turned from evill to good, from ſin to ſincerity, from Sathan to God: Fallen profeſſours muſt have their hearts turned from their aberrations and backſlidings, to the Lord; and it was ſaid of the <hi>Theſſa<g ref="char:EOLhyphen"/>lonians,</hi> when they repented, <hi>they turned to God from their Idols:</hi> 1 Theſ. 1.9. where true Repentance is, there may be miſcarriages, but their heart is turned againſt them.</p>
+            <p>That I may avoid prolixity, there are four things in Repentance.</p>
+            <p n="1">1. There is a mourning for ſin, becauſe it is offenſive to God, <hi>Ahab</hi> may mourn for ſin, becauſe it brings ſor<g ref="char:EOLhyphen"/>row: but true Repentance mourns for ſin becauſe it diſ<g ref="char:EOLhyphen"/>pleaſeth
+<pb n="22" facs="tcp:116208:14"/>God, Zac. 12.10. <hi>they ſhall look upon me whom they have pierced, and they ſhall mourn</hi> &amp;c. Every Repentant ſinner ſhall mourn greatly to think how he hath grieved Jeſus Chriſt by ſin: thus <hi>David</hi> 2 Sam. 12.13. <hi>I have ſinned againſt the Lord:</hi> that he had ſinned againſt <hi>Vriah,</hi> queſtion-leſſe troubled him, but that cuts him moſt, to think that he had ſinned againſt the Lord.</p>
+            <p n="2">2. In true Repentance the <hi>heart</hi> is ſet againſt all ſin, Ezek. 18.11. <hi>Caſt away from you all your tranſgreſsions,</hi> The Prophet doth not ſay <hi>deponite</hi> lay them aſide, but <hi>abijcite</hi> caſt them away, as the ſtomack doth ſuch things as are noyſome and offenſive to it. In Repentance we muſt deal by all ſin, as the Repenting Jews muſt deal by their Idols, Iſa 30.22. <hi>thou ſhalt caſt them away as a men<g ref="char:EOLhyphen"/>ſtruous cloth,</hi> thou ſhalt ſay unto it, <hi>Get thee hence;</hi> there is a caſting away of ſin, with ſcorn, the Apoſtle gives this rule,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> plus eſt <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> quàm <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Beza. Paſ. Lexi.</note> Rom. 12.9. <hi>Abhor that which is evill.</hi> The word ſignifies to loath with deteſtation, tis more then to hate, the Radix of the word is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or <hi>Styx,</hi> which is ſometimes rendred hell; we muſt hate ſin as bad as we would hate hell: and not only ſome ſin but all ſin, not only <hi>Malum opus</hi> the evill deed; but <hi>malum operis</hi> the evill of our deed, Iſa. 1.16. <hi>put away the evill of your doings from before mine eyes.</hi>
+            </p>
+            <p n="3">3. In true Repentance the heart muſt he ſet for God, ſo that it muſt ſtill drive at the advancement of his glory, good actions will not ſerve turn, to faſt, weep, and make an externall ſhew of mourning, is not ſufficient, but the heart muſt be turned, Joel. 2.12. <hi>Turn you unto me</hi> (ſaith the Lord) <hi>with all your hearts;</hi> true Repentance ſets the heart aright towards God.</p>
+            <p n="4">4. The whole heart, not a peice of it only muſt be tur<g ref="char:EOLhyphen"/>ned;
+<pb n="23" facs="tcp:116208:14"/>God loves no heart-diviſion: he will have all, or none at all, Joel. 2.12. <hi>Turn you unto me with all your hearts,</hi>
+               <note place="margin">Dimidia paeni<g ref="char:EOLhyphen"/>tentia a Deo non probatur. <hi>Calv.</hi> in <hi>Ezek 18.30.</hi> Queſt. <hi>2.</hi> Anſ. Reaſ. <hi>1.</hi>
+               </note> If he have but half the heart; tis but half Repentance, which is worth nothing.</p>
+            <p>But why muſt fallen Profeſſours Repent?</p>
+            <p>The Reaſons briefly are they.</p>
+            <p n="1">1. Becauſe they are commanded to Repent, Act. 17; 30. <hi>Now he commandeth all men every where to Repent.</hi> If all men, then ſurely ſuch as are fallen: but more plain is that, Hoſ. 14.1. <hi>Oh Iſrael return unto the Lord thy God, for thou haſt fallen by thine iniquity. Iſrael</hi> hath fallen, but <hi>Iſrael</hi> is exhorted to return to the Lord. Now there is no other way of returning to the Lord, but by repen<g ref="char:EOLhyphen"/>tance.</p>
+            <p n="2">
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>2</label> 2. Becauſe Repentance is the way to riſe after one hath fallen. Sin gives the fall, Repentance helps up again.</p>
+            <p n="3">
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>3</label> 3. Becauſe God is mercifull even to ſuch as have fallen. This is Gods own argument, Jer. 3.12. <hi>Return oh back<g ref="char:EOLhyphen"/>ſliding Iſrael</hi> (ſaith the Lord) <hi>and I will not cauſe mine anger to fall upon you, for I am merfifull.</hi> Here God in<g ref="char:EOLhyphen"/>vites a back ſliding people to return to him, becauſe he is mercifull. Indeed nothing will ſo ſoon perſwade a poor ſoul to turn to God as this. Who that hath run away from God would return, but upon hopes of mercy? ſo ver. 14. <hi>Turn O backſliding children,</hi> ſaith the Lord, <hi>for I am married to you,</hi> ſover. 22. <hi>Return and I will heal your backſlidings:</hi> they have been <hi>backſliders,</hi> yet they are called children, and the Lord ſaith he is marryed to them, and promiſeth to heal them. Is there not great reaſon then that back ſliders ſhould return to the Lord? whither ſhould the childe return but to his father? whither ſhould
+<pb n="24" facs="tcp:116208:15"/>they that are hurt with falling go, but to him that will heal them? this the Lord promiſeth to do, therfore they that are fallen ſhould return to the Lord, by repen<g ref="char:EOLhyphen"/>ting.</p>
+            <p>Yet we would not have men think that tis in any mans power to Repent when he will: but we are thus com<g ref="char:EOLhyphen"/>manded and perſwaded to Repent,
+<list>
+                  <item>1. Not ſo much to ſhew our power as our duty; we ought to do many things that we cannot do,<note place="margin">Deui jubet quae non poſſumus, ut noverimus quid ab co pere re debe amus. <hi>Aug.</hi>
+                     </note> and becauſe of our ſelves we cannot do them, we muſt go to God for help.</item>
+                  <item>2. Gods commands are not bare empty words, but words of power, not only commanding but enabling to do the things commanded:<note place="margin">Dum 'Dominus jubet cor reno<g ref="char:EOLhyphen"/>vare ſimu boc ipſum donat quod a nobis requirit. <hi>Oſi<g ref="char:EOLhyphen"/>and,</hi> in <hi>Eze. 18.32.</hi>
+                     </note> as when Chriſt bid <hi>Thomas</hi> he ſhould not be <hi>faithleſſe,</hi> but <hi>beleeving;</hi> this word was a powerfull word, It enabled him to ſay, <hi>Thou art My Lord and My God,</hi> Joh. 20.27.28.</item>
+                  <item>3. This Command in the text (and many others of this nature elſewhere) are ſpoken to a Church or Chur<g ref="char:EOLhyphen"/>ches wherein are many Saints, in whom Chriſt had wrought this grace before: ſo that now he doth but exhort to <hi>ſtir up the gift</hi> or grace <hi>that is already in them.</hi>
+                     <note place="margin">2 Tim. 1.6.</note>
+                  </item>
+               </list>
+            </p>
+            <p>The firſt Uſe is to informe us:
+<list>
+                  <item>1.<note place="margin">Uſe 1. Of In<g ref="char:EOLhyphen"/>formation.</note> That Repentance is a Goſpel grace, you ſee here the Lord Chriſt preſſeth it upon a Church under the Goſpel: What pity tis, that it is ſo little preached, ſo little practiſed? What pity tis that any ſhould cry down this grace as a legall duty? Alas! the law knows no ſa<g ref="char:EOLhyphen"/>ving repentance. The law is pure vineger, the Goſpel is ſuppling oyl, the law like an hammer, may break the heart, but it is the Goſpel like fire that melts it, ſof<g ref="char:EOLhyphen"/>tens
+<pb n="25" facs="tcp:116208:15"/>it, and brings it to Repentance.</item>
+                  <item>2. This informs us, That thoſe that have Repented, may and muſt when occaſion requires, repent again: Do you think thoſe to whom this Epiſtle is written never repented before? Certainly they did. Doth not the fifth petition in the Lords Prayer,<note place="margin">Aſſiduè pecca<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>tibus aſſidua poenitent to eſt neſſaria. <hi>Aug.</hi>
+                     </note> [which was given to Chriſts Diſciples as a Platforme to pray by] import ſo much? We may well then ſay, as he, they that ſin <hi>every day, had need repent every day.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>And now let me exhort you to this duty:<note place="margin">Uſe 2. Of Ex<g ref="char:EOLhyphen"/>hortation.</note> Oh that <hi>England</hi> would repent, that our <hi>Honourable Parliament,</hi> that our <hi>Reverend Preachers,</hi> and that <hi>all the people of the Land</hi> would repent: We have all ſinned, we have all fallen, oh that we all could and would repent: And that we would ſet upon this work,
+<list>
+                  <item>1. Speedily.</item>
+                  <item>2. Reſolvedly.</item>
+               </list>
+            </p>
+            <p>Firſt, <hi>Speedily,</hi> without delay:<note place="margin">
+                  <hi>Heb. 3.13. Joel 2.12.</hi> Non ſatis eſt rectè facere, niſi etiam ma<g ref="char:EOLhyphen"/>tures quod facis, <hi>Amb.</hi> lib. <hi>1.</hi> de <hi>Abr.</hi> cap. <hi>5.</hi> Remedia con<g ref="char:EOLhyphen"/>verſiones ad Deum nullis cunctationibus ſunt diſſerende ne tempus cor<g ref="char:EOLhyphen"/>rectionis pere<g ref="char:EOLhyphen"/>at. <hi>Aug. Luk. 19.41, 42.</hi>
+               </note> 
+               <hi>To day while it is called to day,</hi> ſaith the Apoſtle: Yea, <hi>Now ſaith the Lord</hi> (by the Prophet) <hi>turn you unto me with all your heart.</hi> The time of repentance is the preſent time: It is not enough to doe well, unleſſe you doe well ſpeedily: <hi>Jeruſalem</hi> for want of ſpeed loſt her day, and what a wofull thing did it prove? it made Chriſt to weep over her, <hi>Luk.</hi> 19.41, 42. he drew neer the city, and beholding it wept over it, ſaying, —<hi>If thou hadſt known, even thou, at leaſt in this thy day</hi>—but now 'tis too late, the time was paſt, the op<g ref="char:EOLhyphen"/>portunity was gone; ſo it may prove to us unleſſe we repent ſpeedily.</p>
+            <p>Secondly, Let us ſet upon this work <hi>Reſolvedly:</hi> When we undertake this task, we muſt look for <hi>lets</hi> and <hi>rubs</hi> abundance; the devil will throw blocks in our way,
+<pb n="26" facs="tcp:116208:16"/>the world will oppoſe the work; and corrupt nature cannot away with it; ſo that we ſhall never repent, if we doe not ſet upon it reſolvedly.</p>
+            <p>Now to further this, Let us firſt know that repentance is Gods gift, <hi>Act.</hi> 5.31. <hi>to give repentance:</hi> and there<g ref="char:EOLhyphen"/>fore we muſt goe to God for it.</p>
+            <p>And then let us think ſeriouſly of our fallings, of our defections; yea let us think upon them with theſe two aggravating conſiderations.</p>
+            <p>Firſt, We have declined, while we were under Gods afflicting hand; God hath been correcting for former fallings, and before he hath laid down his rod, before he hath ſheathed his ſword, we fall again: we have been like the people ſpoken of in <hi>Iſa.</hi> 9.13. <hi>The people turneth not unto him that ſmiteth them, neither doe they ſeek the Lord of hoſts.</hi> And that may be applyed to us that is ſpoken of, <hi>Jer.</hi> 5.3. <hi>God hath ſtricken us but we have not grieved, God hath con<g ref="char:EOLhyphen"/>ſumed us, but we have refuſed to receive correction, we have made our faces harder then a rock, and have refuſed to re<g ref="char:EOLhyphen"/>turn:</hi> What? ſhall the childe grow worſe while the father is correcting? We grow worſe while God is afflicting; we are worſe now, then we were before the ſword came among us: What a ſad caſe is this? Oh that we would lay it to heart.</p>
+            <p>Secondly, A ſecond aggravating conſideration is this, We have declined after mercies were conferred upon us. Sins againſt mercy are heinous ſins, if we had ſinned onely againſt judgement, mercy would have pleaded for us, but having ſinned againſt mercy, what ſhall inter<g ref="char:EOLhyphen"/>cede now? We have ſinned againſt,
+<list>
+                  <item>generall</item>
+                  <item>ſpeciall</item>
+               </list> mercies.</p>
+            <p n="1">1. We have ſinned againſt generall mercies: Some
+<pb n="27" facs="tcp:116208:16"/>have died by the <hi>ſamine,</hi> vvhile we have had our tables full: Many have died of the <hi>plague,</hi> yet it hath not come near many of our dwellings: Thouſands have been ſlain by the ſword, they have fallen ſome on our right hand, and ſome on or left, but our lives have been gi<g ref="char:EOLhyphen"/>ven us for a prey: We have ſeen our adverſaries laid low, we <hi>can ſet our feet on the necks of our enemies.</hi> The Lord hath not dealt ſo with every Nation; <hi>Germany</hi> cannot ſay as we can; <hi>Ireland</hi> cannot ſay as we may: and what? ſhall we ſinne after all this? Oh what an aggravation of ſinne is this! See what <hi>Ezra</hi> ſpeaks, <hi>Ezra</hi> 9.13, 14. <hi>See<g ref="char:EOLhyphen"/>ing that thou our God haſt puniſhed us leſse then our iniquities deſerve, and haſt given us ſuch deliverance as this; ſhould we again break thy commandments? Wouldſt thou not be an<g ref="char:EOLhyphen"/>gry with us till thou hadst conſumed us? ſo that there ſhould be no remnant nor eſcaping?</hi> God hath given us, delive<g ref="char:EOLhyphen"/>rances with an <hi>Emphaſis, Such deliverances as Theſe,</hi> Wonderfull, unſpeakable deliverances: and yet doe we fall back, decline, wax worſe and worſe, ſinning againſt God, againſt his mercies, certainly this muſt needs pro<g ref="char:EOLhyphen"/>voke him exceedingly; Oh th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> we would ſo conſider of it, that we might be affected with it.</p>
+            <p n="2">2. We have ſinned not only againſt <hi>generall,</hi> but alſo againſt <hi>ſpeciall</hi> mercies, againſt <hi>Goſpel</hi> mercies: Never had nation better <hi>Goſpel-preaching</hi> then <hi>England:</hi> Never had <hi>England</hi> better <hi>Preaching</hi> then ſince this Honourable Parliament. Never had Parliament ſo <hi>many powerfull, ſoul ſearching Sermons</hi> preached to them, as this Parlia<g ref="char:EOLhyphen"/>ment hath had: What, and yet doe we decline? Yet doe we wax worſe and worſe? God hath long <hi>waited</hi> on us; Chriſt hath been long <hi>woeing</hi> of us: We have had the ſufferings of Chriſt for poor ſinners ſet before us in
+<pb n="28" facs="tcp:116208:17"/>the Goſpel; and yet are we declining? What a ſad thing is this? This falling doth wound Chriſt; this apoſta<g ref="char:EOLhyphen"/>tizing doth crucifie Chriſt afreſh, and puts him again to open ſhame: <hi>Beloved</hi> ſhould we ſee the drops of bloud trickling down Chriſts precious temples; ſhould we ſee his ſide pierced, and the bloud guſh out there; ſhould we ſee his hands and feet nailed, and withall hear him cry out, <hi>Oh ye poor ſinners of</hi> England, <hi>theſe things have your ſinnes brought upon me,</hi> Certainly t'would move us, t'would melt us: Why all this we have in effect ſpoken to us and ſet before us in the Goſpel (for the preaching of the Goſpel is nothing elſe but the <hi>preaching of Chriſt crucified,</hi> 1 Cor. 1.23.) Oh that this might <hi>prick us at the heart,</hi>
+               <note place="margin">Act. 2.37. 2 Cor. 7.10.</note> and bring us unto ſuch <hi>godly ſorrow, as may work in us repentance to ſalvation never to be repented of.</hi>
+            </p>
+            <p>This ſhall ſuffice for that particular.<note place="margin">3 Particu<g ref="char:EOLhyphen"/>lar.</note>
+            </p>
+            <p>The third particular follows, which is <hi>Reformation,</hi> in theſe words, <hi>and doe the firſt works.</hi> Here note,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label> 
+               <hi>That repentance, though it begin in the heart, yet it doth not end there:</hi> 
+               <note place="margin">Mr <hi>Perkins in loe.</hi>
+               </note> It never periſheth in the heart, but alwaies breaks out into action in this life.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe. </seg>2</label> This is a thing the rather to be corſidered of, becauſe many will ſay they have repented, and been heartily ſor<g ref="char:EOLhyphen"/>row full, for ſuch and ſuch things which <hi>they have ungodly committed;</hi> but we ſee no ſuch matter in their lives. A repenting heart and an unreformed life, doe not uſually go together. <hi>A good tree brings forth good fruit, and a bad tree brings forth bad fruit, a good tree cannot bring forth evil fruit, neither can a corrupt tree bring forth good fruit.</hi> Therefore let us take heed we doe not deceive our ſelves.</p>
+            <p>But to come to another point.<note place="margin">Mat. 7.17.18</note> Which is this,</p>
+            <pb n="29" facs="tcp:116208:17"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label> 
+               <hi>That fallen profeſsours must doe the firſt works.</hi>
+            </p>
+            <p>This they are exhorted to in the text: And this was the thing the Lord would bring Iſrael to, <hi>Hoſ.</hi> 2.7. <hi>Then ſhall ſhee ſay, I will go and return to my firſt husband;</hi>
+               <note place="margin">See M<hi rend="sup">r</hi> 
+                  <hi>Bur<g ref="char:EOLhyphen"/>roughs</hi> in Hoſ. 2.7.</note> ſhe had played the harlot, ſhe had apoſtatized, but now ſhe ſhall ſay, <hi>I will return to my firſt husband,</hi> and doe my firſt works. To this the Prodigall is brought at laſt, though it were long firſt, <hi>Luk.</hi> 13.18. <hi>I will ariſe and go to my fa<g ref="char:EOLhyphen"/>ther;</hi> from thence he came at firſt, and though he hath played the prodigall, and run rambling abroad, now he will return to his firſt place, to his fathers houſe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>
+               </label> And the reaſon is, Becauſe this is the wiſeſt courſe, 'tis better to doe the firſt works, then to apoſtatize. See what Iſrael ſaith in that forenamed place, <hi>Hoſ.</hi> 2.7. <hi>I will re<g ref="char:EOLhyphen"/>turn to my firſt husband, for then it was better with me then now;</hi> and the prodigall found it better being at his fa<g ref="char:EOLhyphen"/>thers houſe then any where elſe, <hi>there was bread enough and to ſpare, but elſewhere he muſt periſh for hunger,</hi> Luk. 15.17. So in doing our firſt works there is farre more comfort and benefit, then in apoſtatizing.</p>
+            <p>See here what a ſad caſe all thoſe are in,<note place="margin">Uſe 1. Of ter<g ref="char:EOLhyphen"/>rour.</note> that have de<g ref="char:EOLhyphen"/>clined, but are not returned, that did run well, but have been letted, and have not ſince begun to doe their firſt works; What, will they begin in the ſpirit and end in the fleſh? will they ſet their hands to the plough, and look back, and continue ſo to doe? Let the Apoſtle tell them their ſtate, 2 <hi>Pet.</hi> 2.20, 21. <hi>If after they have eſcaped the pollutions of the world, through the knowledge of the Lord and Saviour Jeſus Chriſt, they are again entangled therein, and overcome, the later end is worſe with them then the begin<g ref="char:EOLhyphen"/>ning, for it had been be<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ter for, them not to have known the way of righteouſneſſe, then after they have known it to turn
+<pb n="30" facs="tcp:116208:18"/>from the holy Commandment delivered unto them.</hi> This is a wofull concluſion to be worſt at laſt. Oh that ſuch perſons had hearts to lament this condition.<note place="margin">Uſe 2 Of Ex<g ref="char:EOLhyphen"/>hortation.</note>
+            </p>
+            <p>If thoſe that are fallen muſt doe <hi>the firſt works,</hi> this may ſerve to exhort,</p>
+            <p>Firſt, all Chriſtians that have a little declined, to doe their <hi>firſt works.</hi> Labour (oh backſliding Chriſtians) for ſuch a love to Chriſt, to his ordinances, as you had when God firſt began to work upon you: Be as frequent in duties as once you were: Time was, when you could not let a day paſſe, but you muſt have ſome converſe with Chriſt, not only in family, but alſo in cloſet per<g ref="char:EOLhyphen"/>formances, oh let it be ſo again. Time was, when you had more love one towards another then now you ſhew, you could rejoyce to ſee the face of ſuch a Miniſter or profeſſour, oh let it be ſo again: Time was when Chri<g ref="char:EOLhyphen"/>ſtians could meet together for edification, and not for ſuch unprofitable diſputation as now, oh let it be ſo a<g ref="char:EOLhyphen"/>gain: Time was when Chriſtians were not ſo divided in affection as they are now (becauſe one laſt will not fit every ſhoe,) oh let it be ſo again.</p>
+            <p>And here let me ſpeak a word to thoſe that differ in judgement, So farre as you agree together, I would to God you would walk together; and not ſet up party againſt party to the prejudice of all, as the manner of ſome is. <hi rend="margQuotes">It was a good ſaying of the King of <hi>Navarre.</hi> When he entertained <hi>George Gluchus the Daniſh Ambaſ<g ref="char:EOLhyphen"/>ſadour</hi> at a banquet:<note place="margin">Navarraeus dixit, Luthe<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> &amp; Calvi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> in <hi>40.</hi> ar<g ref="char:EOLhyphen"/>ticulis a papâ <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> nuviter diſſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tire: in <gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>e in <hi>39.</hi> articulis conſen<g ref="char:EOLhyphen"/>tire, unum con<g ref="char:EOLhyphen"/>traver ſu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> re<g ref="char:EOLhyphen"/>ſtare: dandam o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eram ut mu<g ref="char:EOLhyphen"/>tuis animis &amp; virthas in papam fingule partes u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> prtmum triue<g ref="char:EOLhyphen"/>rent; uti papa oppreſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, tum de contraverſe illo articulo compo<g ref="char:EOLhyphen"/>nendo und cogi<g ref="char:EOLhyphen"/>taretur Com. de ſtar Rel. &amp; Reip. Gal. pag. <hi>1.</hi> lib. <hi>2.</hi>
+                  </note> he bid the Ambaſſadour tell his Maſter, that he hoped by that time a year were expired, the Goſpel ſhould be freely preached throughout all <hi>France:</hi> The Ambaſſadour deſired him to promote <hi>Luthers</hi> doctrine rather then <hi>Calvins,</hi> as the Kings of
+<pb n="31" facs="tcp:116208:18"/>
+                  <hi>Denmark and Sweden, and other Princes</hi> had done; to whom the <hi>King of Navarre</hi> anſwered, <hi>Luther</hi> and <hi>Cal<g ref="char:EOLhyphen"/>vin</hi> differ from the <hi>Pope</hi> in fourty points, and agree among themſelves in nine and thirty; ſo that there is but one point of differe<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> them. Let there<g ref="char:EOLhyphen"/>fore both <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> forces againſt the <hi>Pope,</hi> and when he is ſubdued, ſee if they can fairly compoſe that one point of difference among themſelves.</hi> So ſay I to our differing parties in the Kingdom, perhaps tis but in one point about <hi>an appeal</hi> that you differ; in other things you agree: Oh that you would join together a<g ref="char:EOLhyphen"/>gainſt the common adverſaries, and thoſe being ſubdu<g ref="char:EOLhyphen"/>ed, ſee if you can fairly diſcuſſe that one point, and if it be poſſible at laſt to agree.</p>
+            <p>Secondly, be ye exhorted (Noble Worthies) to do <hi>the firſt works.</hi> More eſpecially.</p>
+            <p n="1">1, Labour to exalt Chriſt, this is a work of ſome worth, God hath exalted Chriſt, Let me intreat you to exalt him. 1. Exalt him in your own hearts, let Chriſt have the higheſt ſeat in your ſouls: Exalt him in all his offices; Let him be your King, your Preiſt. your Pro<g ref="char:EOLhyphen"/>phet, <hi>the chiefeſt among ten thouſand;</hi> 2. Exalt Chriſt in the nation, let him be <hi>Englands</hi> King, Let him have all his ordinances ſet forth and ſet up in their full power and purity among us, Do this firſt work.</p>
+            <p n="2">2. Labour to promote an able Conſcientious Miniſtry, this is a work you have been about, Goe on, and the Lord make you to proſper in it.</p>
+            <p>Firſt, Let Conſcientious Miniſters be <hi>countenanced</hi> by you; they are your <hi>horſemen and chariots.</hi> Let not men of malignant ſpirits, have power to moleſt them, though in ſome <hi>minus principalibus,</hi> they do differ from ſome others.</p>
+            <pb n="32" facs="tcp:116208:19"/>
+            <p>Secondly, Let them not want competent <hi>maintenance</hi> (I plead not for tithes) by Biſhops land, or ſome other waies a competency may be had. But if you leave them to the alms of the people, many Miniſters in many pla<g ref="char:EOLhyphen"/>ces muſt feed upon ſhort <hi>commons,</hi> for charity groweth very cold.</p>
+            <p>Thirdly, I beſeech you labour to do juſtice, you are the ſupream Magiſtrates of the Kingdome, If juſtice come not to us from you, whence ſhall we have it?</p>
+            <p n="1">1. I beſeech you judge for the poor, Pſa. 82.3, 4. <hi>Defend the poor and fatherleſse, do juſtice to the afflicted and needy, Deliver the poor and needy, rid them out of the hand of the wicked:</hi> Many a poor Miniſter is miſerably afflicted by ſome wicked rich men in his pariſh, becauſe he dares not give them the Sacrament which would be as a cup of poyſon to their ſouls, and many a poor widow ſuffers much at the hands of the mighty, I beſeech you let the cauſe of the poor innocent be heard.</p>
+            <p n="2">2. I beſeech you be impartiall in juſtice: Do not let the great flies break through the web, while little gnats are intangled.<note place="margin">Inven. Sat <hi>2.</hi>
+               </note> 
+               <hi>Dat veniam corvis, vexat Cenſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ra columbas.</hi> To ſpare the great birds, and deſtroy the ſmall, not ſo hurtfull, is no good juſtice. There are many wonder there are no more delinquents called to the bar; Take heed you ſpare not <hi>Brother Benhadad,</hi>
+               <note place="margin">Dum M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>at<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> reos ab<g ref="char:EOLhyphen"/>ſolvunt graviſ<g ref="char:EOLhyphen"/>ſimorun <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<g ref="char:EOLhyphen"/>num, pecca<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e<g ref="char:EOLhyphen"/>crum ſeſe obli<g ref="char:EOLhyphen"/>gant. P. Nar<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. in <hi>1.</hi> Reg, <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0.42.</hi>
+               </note> leaſt you and the Kingdome fare the worſe for it, as the Prophet told <hi>Ahab</hi> 1 Kin. 20, 42. <hi>Becauſe thou haſt let go a man whom I had appointed to utter destruction, thy life ſhall go for his life, and thy people for his people. I beſeech you</hi> think of this, and be impartiall.</p>
+            <p n="3">3. I beſeech you do juſtice ſpeedily, let not men wait for juſtice, norly long before they come to tryall. Juſtice
+<pb n="33" facs="tcp:116208:19"/>ſhould run; You have many of your delinquents grow exceeding bold, becauſe they ſee Juſtice is not ſpeedily executed, Eccl. 8.11. <hi>Becauſe ſentence againſt an evill work is not executed ſpeedily, therefore the heart of the ſons of men, is ſully ſet in them to do evill:</hi> which may as well be ap<g ref="char:EOLhyphen"/>plyed to mans delay,<note place="margin">Vide C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a Lap. &amp; Tho. Cart. in loc.</note> as to Gods delay in puniſhing of<g ref="char:EOLhyphen"/>fenders; And the truth is, delayes in executing juſtice, may prove of as dangerous conſequence as delayes in war, Oh therfore do juſtice ſpeedily.</p>
+            <p n="4">4. Be perſwaded to do juſtice <hi>freely;</hi> Among the Jews the Judges ſat in the gates, men might have as free re<g ref="char:EOLhyphen"/>courſe to the Judges, as to their Cities; I am confident this honourable Parliament ſcorns to judge for rewards, yet ſome ſay it coſts <hi>vijs &amp; modis,</hi> much money, as well as much waiting, to have an Order upon a Petition, I be<g ref="char:EOLhyphen"/>ſeech you let Juſtice be more free.</p>
+            <p>Fourthly, There is one work more which I would beſeech you to do, And that is to let <hi>Ireland</hi> be remem<g ref="char:EOLhyphen"/>bred. Ah poor <hi>Ireland,</hi> how art thou forgotten? If we haſten not help, before it be too late, we may haply wiſh-would we had made more haſt, we were more active for them once then now we are, Oh that we would do that <hi>firſt work.</hi>
+            </p>
+            <p>I ſhall uſe no other motives to preſſe home theſe things,<note place="margin">2 For the Mi<g ref="char:EOLhyphen"/>natory part of the text.</note> then the particulars which lie in the <hi>Minatory</hi> part of the text.</p>
+            <p>The firſt whereof is Chriſts coming,<note place="margin">1 Particular.</note> 
+               <hi>Or elſe I will come unto thee.</hi> But why ſhould here be mention made of <hi>Chriſts Coming,</hi> was he not at <hi>Epheſus</hi> before? doth he not walk in <hi>the midſt of the ſeven golden Candleſticks,</hi> ver. 1. yes, he doth walk there as a <hi>defender,</hi>
+               <note place="margin">Bright man in lee.</note> but not as a reven<g ref="char:EOLhyphen"/>ger: when he ſaith he will come, he means to puniſh,
+<pb n="34" facs="tcp:116208:20"/>when he comes,<note place="margin">Propter te pu<g ref="char:EOLhyphen"/>niendu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Gor<g ref="char:EOLunhyphen"/>ran. in loc.</note> and when he comes for ſuch a purpoſe as this, he takes up (as it were) another perſon, he comes as a ſtranger to do a ſtrange act, for ſo he calls his Judgements, <hi>Iſa</hi> 28.21. <hi>That he may do his work, his ſtrange work, that he may bring to paſse his act, his ſtrange act;</hi> Now when Chriſt ſhall come to judgement, would you have him finde you in an apoſtatizing ſtate? in a back<g ref="char:EOLhyphen"/>ſliding condition? worſe then you were at firſt? Chriſts laſt works towards his people ſhall be his beſt works, Eze, 36.1. <hi>I will do better to you, then at your beginning.</hi> And would you have him finde you doing worſe at your latter end, then at your beginning? Let then the conſide<g ref="char:EOLhyphen"/>ration of Chriſts coming, move you to <hi>do your first works.</hi>
+            </p>
+            <p>The Second Argument to preſſe home theſe things,<note place="margin">2 Particular.</note> is taken from the conſideration of the ſpeedineſſe of Chriſts coming,<note place="margin">His<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> not <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>I come unto thee quickly.</hi> In the Origi<g ref="char:EOLhyphen"/>nall it is, <hi>I come,</hi> in the preſent tenſe, not <hi>I will come,</hi> in the future: Intimating, that Chriſt is coming already, be<g ref="char:EOLhyphen"/>ſides it is further ſaid, <hi>I come quickly,</hi> very ſwiftly, with much ſpeed, and ſuddenneſſe. You may perhaps think as he in Mat. 24.48. <hi>My Lord delays his comming,</hi> and ſo may venture on things not convenie<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t; but take heed leaſt you be ſurprized: The Lord may come this night againſt ſome of you; And would it not be a ſad thing to be found worſe then you were ſeven years agoe? to have the Lord ſay, you are grown worſe ſince you were Parliament men, then you were before? worſe Chri<g ref="char:EOLhyphen"/>ſtians not ſo zealous? worſe Commonwealths-men, not ſo actively nor publikely ſpirited as heretofore? would not this be ſad? Let me tell you, God hath not beſtowed the honour of being Parliament men upon you (for ſuch
+<pb n="35" facs="tcp:116208:20"/>ends as <hi>Caeſar beſtowed favours on Brutus, Not ſo much to honour his vertues,</hi>
+               <note place="margin">Plutarch invi<g ref="char:EOLhyphen"/>ta Bruti.</note> 
+               <hi>as to weaken his constant minde</hi>) but God hath beſtowed this high honour on you, that you and the Kingdome might be the better. Oh therefore look to it, and labour to <hi>do your first works.</hi>
+            </p>
+            <p>The third Argument is taken from the end of Chriſts coming,<note place="margin">3 Particular.</note> which is to <hi>Remove thy Candlestick out of his place:</hi> Though Chriſt will not break his Candleſtick, yet he will remove it, not leave ſo much as any <hi>quality, title, or property of a Church:</hi> he will unchurch a Church,<note place="margin">Diodats annos. in loc.</note> if he ſee cauſe, as he hath done by <hi>Epheſus.</hi> Would you then have <hi>England</hi> looſe the Goſpel? would you have <hi>Paganiſme</hi> or <hi>Popery</hi> come in again? I am confident you would not: It would be a ſad day with <hi>England,</hi> if God ſhould take away the Goſpel; when the Goſpel goes from a place, God goes; when the Goſpel goes, Chriſt goes; when the Goſpel goes, all true proſperity goes: ſo that if Chriſt ſhould take away his Goſpel, we ſhould be extreamly wofull every way; I beſeech you therefore if you have any love to God, any love to Chriſt, any love to the Goſpel, any love to the Kingdome, or any love to your ſelves, <hi>Remember from whence you are fallen, and Repent, And do your firſt works again,</hi> &amp;c.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
